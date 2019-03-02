@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 8eeeafd65b97b0a4ebcb4eaaa5cf58a7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cube: {instanceID: 0}
+  - outlinethingy: {instanceID: 0}
+  - wrapper: {instanceID: 0}
+  - sauce: {instanceID: 0}
+  - sauce2: {instanceID: 0}
+  - sauce3: {instanceID: 0}
+  - stat: {instanceID: 0}
+  - mat: {fileID: 2100000, guid: f58fcb8ee24cd6c4f888d3f83c5cdbcd, type: 2}
+  - phys: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

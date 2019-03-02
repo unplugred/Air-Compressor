@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: af95d8887b462fb4e9e381c7056d47c3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Circle
+    100004: Cube
+    100006: Plane
+    100008: Plane_001
+    100010: arrow
+    100012: clocl
+    100014: long_boi
+    100016: short_boi
+    100018: arrowcol
+    100020: clocl_001
+    100022: clocl_002
+    100024: clock_inside
+    100026: inverse_stencil
+    100028: stencil
+    100030: piece_1
+    100032: piece_2
+    100034: piece_3
+    100036: piece_4
+    100038: clock_inside_001
+    100040: clock_inside_002
+    100042: clock_glitch_1
+    100044: clock_glitch_2
+    100046: clock_glitch_3
+    400000: //RootNode
+    400002: Circle
+    400004: Cube
+    400006: Plane
+    400008: Plane_001
+    400010: arrow
+    400012: clocl
+    400014: long_boi
+    400016: short_boi
+    400018: arrowcol
+    400020: clocl_001
+    400022: clocl_002
+    400024: clock_inside
+    400026: inverse_stencil
+    400028: stencil
+    400030: piece_1
+    400032: piece_2
+    400034: piece_3
+    400036: piece_4
+    400038: clock_inside_001
+    400040: clock_inside_002
+    400042: clock_glitch_1
+    400044: clock_glitch_2
+    400046: clock_glitch_3
+    2100000: Material
+    2100002: black
+    2100004: white
+    2100006: black_001
+    2300000: //RootNode
+    2300002: Circle
+    2300004: Cube
+    2300006: Plane
+    2300008: Plane_001
+    2300010: arrow
+    2300012: clocl
+    2300014: long_boi
+    2300016: short_boi
+    2300018: arrowcol
+    2300020: clocl_001
+    2300022: clocl_002
+    2300024: clock_inside
+    2300026: inverse_stencil
+    2300028: stencil
+    2300030: piece_1
+    2300032: piece_2
+    2300034: piece_3
+    2300036: piece_4
+    2300038: clock_inside_001
+    2300040: clock_inside_002
+    2300042: clock_glitch_1
+    2300044: clock_glitch_2
+    2300046: clock_glitch_3
+    3300000: //RootNode
+    3300002: Circle
+    3300004: Cube
+    3300006: Plane
+    3300008: Plane_001
+    3300010: arrow
+    3300012: clocl
+    3300014: long_boi
+    3300016: short_boi
+    3300018: arrowcol
+    3300020: clocl_001
+    3300022: clocl_002
+    3300024: clock_inside
+    3300026: inverse_stencil
+    3300028: stencil
+    3300030: piece_1
+    3300032: piece_2
+    3300034: piece_3
+    3300036: piece_4
+    3300038: clock_inside_001
+    3300040: clock_inside_002
+    3300042: clock_glitch_1
+    3300044: clock_glitch_2
+    3300046: clock_glitch_3
+    4300000: Cube
+    4300002: Plane_001
+    4300004: Plane
+    4300006: Circle
+    4300008: short_boi
+    4300010: long_boi
+    4300012: clocl
+    4300014: arrow
+    4300016: arrowcol
+    4300018: clocl_001
+    4300020: clocl_002
+    4300022: clock_inside
+    4300024: inverse_stencil
+    4300026: stencil
+    4300028: piece_4
+    4300030: piece_3
+    4300032: piece_2
+    4300034: piece_1
+    4300036: clock_inside_002
+    4300038: clock_inside_001
+    4300040: clock_glitch_3
+    4300042: clock_glitch_2
+    4300044: clock_glitch_1
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 48d829b0d5263374392ba8627da65e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_001
+    second: {fileID: 2100000, guid: 020d5583670f7224aa220e7f244081c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: f92645e173f6e6447afd82a3291bb5ea, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

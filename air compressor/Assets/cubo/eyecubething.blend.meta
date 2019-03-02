@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 7f0432eee0743d94b992a99a25b10053
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Circle_001
+    100002: Cube
+    100004: Cube_001
+    100006: Cube_002
+    100008: //RootNode
+    100010: eye
+    100012: frame
+    100014: iris
+    100016: Cube_000
+    100018: Cube_003
+    100020: frame_001
+    100022: frame_002
+    100024: frame_003
+    100026: frame_004
+    100028: frame_005
+    100030: frame_006
+    100032: frame_007
+    100034: frame_008
+    100036: frame_009
+    100038: outline1
+    100040: outline2
+    100042: outline3
+    100044: cube
+    100046: cube_001
+    100048: cube_003
+    100050: cube_002
+    100052: Curve_005
+    100054: Icosphere
+    400000: Circle_001
+    400002: Cube
+    400004: Cube_001
+    400006: Cube_002
+    400008: //RootNode
+    400010: eye
+    400012: frame
+    400014: iris
+    400016: Cube_000
+    400018: Cube_003
+    400020: frame_001
+    400022: frame_002
+    400024: frame_003
+    400026: frame_004
+    400028: frame_005
+    400030: frame_006
+    400032: frame_007
+    400034: frame_008
+    400036: frame_009
+    400038: outline1
+    400040: outline2
+    400042: outline3
+    400044: cube
+    400046: cube_001
+    400048: cube_003
+    400050: cube_002
+    400052: Curve_005
+    400054: Icosphere
+    2100000: white
+    2100002: black
+    2100004: transparent
+    2100006: SVGMat_006
+    2100008: SVGMat_008
+    2100010: SVGMat_007
+    2100012: SVGMat_005
+    2100014: SVGMat_004
+    2100016: SVGMat_003
+    2100018: SVGMat_002
+    2100020: SVGMat_001
+    2100022: logo
+    2100024: unnamed
+    2300000: Circle_001
+    2300002: Cube
+    2300004: Cube_001
+    2300006: Cube_002
+    2300008: //RootNode
+    2300010: eye
+    2300012: frame
+    2300014: iris
+    2300016: Cube_000
+    2300018: Cube_003
+    2300020: frame_001
+    2300022: frame_002
+    2300024: frame_003
+    2300026: frame_004
+    2300028: frame_005
+    2300030: frame_006
+    2300032: frame_007
+    2300034: frame_008
+    2300036: frame_009
+    2300038: outline1
+    2300040: outline2
+    2300042: outline3
+    2300044: cube
+    2300046: cube_001
+    2300048: cube_003
+    2300050: cube_002
+    2300052: Curve_005
+    2300054: Icosphere
+    3300000: Circle_001
+    3300002: Cube
+    3300004: Cube_001
+    3300006: Cube_002
+    3300008: //RootNode
+    3300010: eye
+    3300012: frame
+    3300014: iris
+    3300016: Cube_000
+    3300018: Cube_003
+    3300020: frame_001
+    3300022: frame_002
+    3300024: frame_003
+    3300026: frame_004
+    3300028: frame_005
+    3300030: frame_006
+    3300032: frame_007
+    3300034: frame_008
+    3300036: frame_009
+    3300038: outline1
+    3300040: outline2
+    3300042: outline3
+    3300044: cube
+    3300046: cube_001
+    3300048: cube_003
+    3300050: cube_002
+    3300052: Curve_005
+    3300054: Icosphere
+    4300000: Circle_001
+    4300002: Cube_002
+    4300004: Cube_001
+    4300006: Cube
+    4300008: eye
+    4300010: iris
+    4300012: frame
+    4300014: Cube_003
+    4300016: Cube_000
+    4300018: frame_009
+    4300020: frame_008
+    4300022: frame_007
+    4300024: frame_006
+    4300026: frame_005
+    4300028: frame_004
+    4300030: frame_003
+    4300032: frame_002
+    4300034: frame_001
+    4300036: cube
+    4300038: outline1
+    4300040: outline2
+    4300042: outline3
+    4300044: cube_001
+    4300046: cube_003
+    4300048: cube_002
+    4300050: Curve_005
+    4300052: Icosphere
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: eye
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 48d829b0d5263374392ba8627da65e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: transparent
+    second: {fileID: 2100000, guid: 5dd41b4c540316f4b9e05ac9141356d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: f92645e173f6e6447afd82a3291bb5ea, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
