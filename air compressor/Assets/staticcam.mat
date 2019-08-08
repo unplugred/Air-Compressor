@@ -58,7 +58,7 @@ Material:
     - stat:
         m_Texture: {fileID: 2800000, guid: f15e136190f28e14aa03078b3d8e8ffd, type: 3}
         m_Scale: {x: 0.93847656, y: 0.93847656}
-        m_Offset: {x: 0.9960047, y: 0.15527344}
+        m_Offset: {x: 0.97765875, y: 0.5996094}
     m_Floats:
     - _BumpScale: 1
     - _Cutoff: 0.5
